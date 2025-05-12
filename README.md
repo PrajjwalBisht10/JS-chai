@@ -1,2 +1,3 @@
 # JS-chai
-A code repositary for JS.
+A code repositary for JS. HELLO GUYS
+    
